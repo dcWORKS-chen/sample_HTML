@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"sample01","l":"ArrayReversal"},{"p":"sample01","l":"EvenNumbersArray"},{"p":"sample01","l":"FruitMapExample"},{"p":"sample01","l":"MultiplicationTable"},{"p":"sample01","l":"StringSwap"},{"p":"sample01","l":"SumFunctionExample"}];updateSearchResults();
